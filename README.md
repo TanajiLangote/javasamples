@@ -1,0 +1,2 @@
+# javasamples
+basic codes
